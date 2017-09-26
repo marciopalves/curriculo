@@ -1,0 +1,12 @@
+HTTrack3.46+htsswf+htsjava launched on Mon, 24 Oct 2016 04:36:12 at http://douglasdejesus.com.br/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "en, en, *" http://douglasdejesus.com.br/ -O1 "D:\My Web Sites\Curriculo_web" +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:37:21	Error: 	"Not Found" (404) at link douglasdejesus.com.br/images/logo.png (from douglasdejesus.com.br/)
+
+HTTrack Website Copier/3.46 mirror complete in 2 minutes 46 seconds : 68 links scanned, 66 files written (4353853 bytes overall) [4375743 bytes received at 26359 bytes/sec]
+(1 errors, 0 warnings, 0 messages)
